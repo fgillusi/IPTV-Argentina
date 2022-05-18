@@ -1,1 +1,24 @@
-http://cdn.tvcluboficial.com/tp_ts/H2/H2.txt, Cuadro de edición, Buscar o escribir dirección
+<html>
+  <head>
+   <meta name="color-scheme" content="light dark">
+  </head>
+  <body>
+   <pre style="word-wrap: break-word; white-space: pre-wrap;">#EXTM3U
+ #EXT-X-VERSION:3
+ #EXT-X-TARGETDURATION:8
+ #EXT-X-MEDIA-SEQUENCE:10129
+ #EXTINF:7.207200,
+http://cdn.tvcluboficial.com/tp_ts/DHE/_10129.ts
+ #EXTINF:6.806800,
+http://cdn.tvcluboficial.com/tp_ts/DHE/_10130.ts
+ #EXTINF:8.008000,
+http://cdn.tvcluboficial.com/tp_ts/DHE/_10131.ts
+ #EXTINF:6.006000,
+http://cdn.tvcluboficial.com/tp_ts/DHE/_10132.ts
+ #EXTINF:8.008000,
+http://cdn.tvcluboficial.com/tp_ts/DHE/_10133.ts
+ #EXTINF:6.006000,
+http://cdn.tvcluboficial.com/tp_ts/DHE/_10134.ts
+ </pre>
+  </body>
+ </html>, Cuadro de edición
