@@ -1,0 +1,16 @@
+#EXTM3U
+ #EXT-X-VERSION:3
+ #EXT-X-TARGETDURATION:7
+ #EXT-X-MEDIA-SEQUENCE:171
+ #EXTINF:7.207200,
+http://cdn.tvcluboficial.com/tp_ts/H2/_171.ts
+ #EXTINF:7.340667,
+http://cdn.tvcluboficial.com/tp_ts/H2/_172.ts
+ #EXTINF:7.207200,
+http://cdn.tvcluboficial.com/tp_ts/H2/_173.ts
+ #EXTINF:6.673333,
+http://cdn.tvcluboficial.com/tp_ts/H2/_174.ts
+ #EXTINF:7.207200,
+http://cdn.tvcluboficial.com/tp_ts/H2/_175.ts
+ #EXTINF:6.940267,
+http://cdn.tvcluboficial.com/tp_ts/H2/_176.ts
